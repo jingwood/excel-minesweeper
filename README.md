@@ -1,7 +1,7 @@
-# excel-minesweeper
+# Excel Minesweeper
 A minesweeper game written in Excel VBA.
 
-![Excel Minesweeper](http://necotech.org/wp-content/uploads/2014/10/2006_03_xMine.png)
+![Excel Minesweeper](http://necotech.org/wp-content/uploads/2017/07/main.png)
 
 # How to play
 
